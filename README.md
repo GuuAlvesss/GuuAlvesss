@@ -2,7 +2,7 @@
 
 - 👋 Olá, meu nome é **@GuuAlvesss**
 - :+1:Meu e-mail de contato é [email](gustavo.henriquedejesus.alves@escola.pr.gov.br)
-- 👀 Eu estou interessado em aprender novas linguagens.
+- 👀 Gosto muito de jogar futebol.
 - 🌱 Eu estou aprendendendo a programar recentemente a linguagem JavaScript e Scratch
 - ### Ferramentas
 
